@@ -79,7 +79,7 @@
 			height: 1.3rem;
 			width: 1.3rem;
 			border-radius: 50%;
-			@include centerHorizontalVerticle
+			@include centerHorizontalVerticle;
 			background-color: $color-primary;
 			opacity: 0;
 			transition: opacity .2s;

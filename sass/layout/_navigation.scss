@@ -45,7 +45,7 @@
 	}
 
 	&__list {
-		@include centerHorizontalVerticle
+		@include centerHorizontalVerticle;
 		list-style: none;
 		text-align: center;
 		width: 100%;
