@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/aandy315/natours-1#readme",
   "devDependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.12.0"
   }
 }
